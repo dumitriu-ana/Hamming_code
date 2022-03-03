@@ -1,4 +1,4 @@
-; Proiect BTI- Dumitriu Ana Maria 1015 C
+; Proiect BTI-  Ana 
 ; Cerinta: Se citeste un sir de 4 biti. Sa se afiseze codul Hamming corespunzator. 
 ; Se citest doar valori de 0 si 1, se afiseaza 7 biti
 
